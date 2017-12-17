@@ -9,6 +9,7 @@
   "author": "chaohang",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.6.0",
     "cheerio": "^1.0.0-rc.2",
     "mysql": "^2.15.0",
     "superagent": "^3.8.2"
